@@ -2,7 +2,7 @@
 
 Meet, The Calcinator, your ultimate math sidekick, engineered to handle even the most challenging calculations with ease. Get ready to crunch numbers like a pro and conquer every mathematical enigma that comes your way! 
 
-Link to project: thecalcinator.netlify.app
+Link to project: https://thecalcinator.netlify.app
 
 alt tag
 
